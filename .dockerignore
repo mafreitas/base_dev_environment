@@ -1,0 +1,17 @@
+#Test Folders
+test/
+tst/
+data/
+
+#Temporary Directories
+temp/
+tmp/
+
+#Large Files
+*.mzml
+*.mzml
+*.idxml
+*.tsv
+*.csv
+*.pepxml
+*.fasta
